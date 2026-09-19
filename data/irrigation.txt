@@ -1,0 +1,87 @@
+TITLE: Irrigation Methods and Water Management
+
+FLOOD/SURFACE IRRIGATION
+Water is applied over the field surface and allowed to flow by gravity. It is low-cost but water-use efficiency is relatively low due to seepage and runoff. Commonly used for rice.
+
+DRIP IRRIGATION
+Water is delivered directly to the root zone through emitters at low flow rates. This method significantly reduces water use (often 30-50% savings) and is well suited to row crops like chilli, cotton, and vegetables. Combined with fertigation, it also improves nutrient use efficiency.
+
+SPRINKLER IRRIGATION
+Water is sprayed over the crop canopy, mimicking rainfall. Useful for crops like groundnut and wheat, particularly on undulating or sandy terrain where flood irrigation is inefficient.
+
+ALTERNATE WETTING AND DRYING (AWD)
+Primarily used in rice, fields are allowed to dry to a certain threshold before re-flooding, reducing water use by 15-30% without significant yield loss, while also reducing methane emissions.
+
+SCHEDULING IRRIGATION
+Irrigation scheduling based on crop growth stage, soil moisture monitoring, and weather forecasts (evapotranspiration data) helps avoid both under- and over-irrigation. Critical growth stages such as flowering and grain/fruit filling are generally most sensitive to water stress.
+
+WATERLOGGING AND DRAINAGE
+Prolonged waterlogging deprives roots of oxygen and promotes root rot in most crops except rice. Proper field leveling, raised beds, and drainage channels help manage excess water, especially after heavy rainfall.
+
+RESPONDING TO HEAVY RAINFALL AFTER SOWING
+If heavy rainfall causes waterlogging shortly after sowing, prompt drainage of excess water is important to prevent seed rot and damping-off. Fields should be inspected for gap filling/re-sowing in badly affected patches, and a preventive fungicide drench can help reduce seedling disease pressure in vulnerable crops.
+
+================================================================================
+IRRIGATION METHODS AND WATER MANAGEMENT — KNOWLEDGE BASE
+================================================================================
+Category: Cross-crop / Water management
+Region: India (general)
+Document type: agriculture_advisory
+Last verified: 2026
+
+--------------------------------------------------------------------------------
+FLOOD / SURFACE IRRIGATION
+--------------------------------------------------------------------------------
+Water is applied over the field surface and allowed to flow by gravity. It is
+low-cost but water-use efficiency is relatively low due to seepage and
+runoff. Commonly used for rice.
+
+--------------------------------------------------------------------------------
+DRIP IRRIGATION
+--------------------------------------------------------------------------------
+Water is delivered directly to the root zone through emitters at low flow
+rates. This method significantly reduces water use (often 30-50% savings)
+and is well suited to row crops like chilli, cotton, and vegetables.
+Combined with fertigation, it also improves nutrient use efficiency.
+
+--------------------------------------------------------------------------------
+SPRINKLER IRRIGATION
+--------------------------------------------------------------------------------
+Water is sprayed over the crop canopy, mimicking rainfall. Useful for crops
+like groundnut and wheat, particularly on undulating or sandy terrain where
+flood irrigation is inefficient.
+
+--------------------------------------------------------------------------------
+ALTERNATE WETTING AND DRYING (AWD)
+--------------------------------------------------------------------------------
+Primarily used in rice, fields are allowed to dry to a certain threshold
+before re-flooding, reducing water use by 15-30% without significant yield
+loss, while also reducing methane emissions.
+
+--------------------------------------------------------------------------------
+SCHEDULING IRRIGATION
+--------------------------------------------------------------------------------
+Irrigation scheduling based on crop growth stage, soil moisture monitoring,
+and weather forecasts (evapotranspiration data) helps avoid both under- and
+over-irrigation. Critical growth stages such as flowering and grain/fruit
+filling are generally most sensitive to water stress.
+
+--------------------------------------------------------------------------------
+WATERLOGGING AND DRAINAGE
+--------------------------------------------------------------------------------
+Prolonged waterlogging deprives roots of oxygen and promotes root rot in most
+crops except rice. Proper field leveling, raised beds, and drainage channels
+help manage excess water, especially after heavy rainfall.
+
+--------------------------------------------------------------------------------
+RESPONDING TO HEAVY RAINFALL AFTER SOWING
+--------------------------------------------------------------------------------
+If heavy rainfall causes waterlogging shortly after sowing, prompt drainage
+of excess water is important to prevent seed rot and damping-off. Fields
+should be inspected for gap filling/re-sowing in badly affected patches, and
+a preventive fungicide drench can help reduce seedling disease pressure in
+vulnerable crops.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

@@ -1,0 +1,87 @@
+TITLE: Integrated Pest Management (IPM) Guide
+
+PRINCIPLES OF IPM
+Integrated Pest Management combines cultural, biological, mechanical, and chemical methods to keep pest populations below economically damaging levels, while minimizing environmental impact and pesticide resistance.
+
+CULTURAL CONTROL
+Crop rotation, timely sowing, field sanitation (removing crop residue and alternate hosts), and use of resistant or tolerant varieties reduce pest buildup without any direct intervention.
+
+MONITORING AND THRESHOLDS
+Regular field scouting and pheromone or light traps help detect pest presence early. Economic threshold levels (the pest density at which control action becomes cost-effective) should guide spraying decisions rather than calendar-based spraying.
+
+BIOLOGICAL CONTROL
+Natural enemies such as ladybird beetles (predators of aphids), parasitic wasps (that attack caterpillar eggs/larvae), and spiders help suppress pest populations naturally. Conserving these natural enemies by avoiding broad-spectrum insecticide overuse is a key IPM practice.
+
+MECHANICAL CONTROL
+Hand-picking of egg masses or larvae, use of sticky traps for whiteflies and thrips, and installation of bird perches to encourage natural predation are low-cost mechanical options.
+
+CHEMICAL CONTROL
+When pest levels exceed economic thresholds, selective, need-based pesticide application is preferred over routine spraying. Rotating chemical classes helps delay resistance development. Pre-harvest intervals should be respected to ensure produce safety.
+
+COMMON CROSS-CROP PESTS
+Aphids, whiteflies, and thrips are common sap-sucking pests across many crops and can also transmit viral diseases. Bollworms and fruit/pod borers affect cotton, chilli, and legumes. Termites and white grubs are soil pests that damage roots, particularly in sandy soils.
+
+================================================================================
+INTEGRATED PEST MANAGEMENT (IPM) GUIDE — KNOWLEDGE BASE
+================================================================================
+Category: Cross-crop / Pest & disease management
+Region: India (general)
+Document type: agriculture_advisory
+Last verified: 2026
+
+--------------------------------------------------------------------------------
+PRINCIPLES OF IPM
+--------------------------------------------------------------------------------
+Integrated Pest Management combines cultural, biological, mechanical, and
+chemical methods to keep pest populations below economically damaging
+levels, while minimizing environmental impact and pesticide resistance.
+
+--------------------------------------------------------------------------------
+CULTURAL CONTROL
+--------------------------------------------------------------------------------
+Crop rotation, timely sowing, field sanitation (removing crop residue and
+alternate hosts), and use of resistant or tolerant varieties reduce pest
+buildup without any direct intervention.
+
+--------------------------------------------------------------------------------
+MONITORING AND THRESHOLDS
+--------------------------------------------------------------------------------
+Regular field scouting and pheromone or light traps help detect pest
+presence early. Economic threshold levels (the pest density at which control
+action becomes cost-effective) should guide spraying decisions rather than
+calendar-based spraying.
+
+--------------------------------------------------------------------------------
+BIOLOGICAL CONTROL
+--------------------------------------------------------------------------------
+Natural enemies such as ladybird beetles (predators of aphids), parasitic
+wasps (that attack caterpillar eggs/larvae), and spiders help suppress pest
+populations naturally. Conserving these natural enemies by avoiding
+broad-spectrum insecticide overuse is a key IPM practice.
+
+--------------------------------------------------------------------------------
+MECHANICAL CONTROL
+--------------------------------------------------------------------------------
+Hand-picking of egg masses or larvae, use of sticky traps for whiteflies and
+thrips, and installation of bird perches to encourage natural predation are
+low-cost mechanical options.
+
+--------------------------------------------------------------------------------
+CHEMICAL CONTROL
+--------------------------------------------------------------------------------
+When pest levels exceed economic thresholds, selective, need-based pesticide
+application is preferred over routine spraying. Rotating chemical classes
+helps delay resistance development. Pre-harvest intervals should be
+respected to ensure produce safety.
+
+--------------------------------------------------------------------------------
+COMMON CROSS-CROP PESTS
+--------------------------------------------------------------------------------
+Aphids, whiteflies, and thrips are common sap-sucking pests across many
+crops and can also transmit viral diseases. Bollworms and fruit/pod borers
+affect cotton, chilli, and legumes. Termites and white grubs are soil pests
+that damage roots, particularly in sandy soils.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

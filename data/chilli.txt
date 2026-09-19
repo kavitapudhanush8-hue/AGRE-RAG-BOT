@@ -1,0 +1,1470 @@
+TITLE: Chilli Cultivation Guide
+
+SOIL REQUIREMENTS
+Chilli grows well in well-drained sandy loam to clay loam soils rich in organic matter, with a pH range of 6.0-7.0. Waterlogged conditions promote root rot and should be avoided.
+
+NURSERY AND TRANSPLANTING
+Seeds are raised in a nursery for about 30-35 days before transplanting. Healthy, disease-free seedlings should be selected, and a brief root dip in a fungicide solution before transplanting helps reduce wilt incidence.
+
+SPACING
+Common spacing is 45-60 cm between rows and 30-45 cm between plants, adjusted for variety and soil fertility.
+
+IRRIGATION
+Chilli requires regular but moderate irrigation. Flowering and fruiting stages are most sensitive to water stress. Drip irrigation with mulching is increasingly used to conserve water and reduce weed and disease pressure.
+
+FERTILIZER MANAGEMENT
+A balanced NPK program with organic manure as basal application supports healthy growth. Calcium and boron deficiencies can cause flower drop and poor fruit set, so foliar micronutrient sprays are sometimes used during flowering.
+
+LEAF DISEASE SYMPTOMS
+Leaf curl virus, spread by whiteflies, causes upward curling, crinkling, and stunted growth. Bacterial leaf spot appears as small, water-soaked spots that turn brown with a yellow halo. Anthracnose (fruit rot) shows as sunken, dark circular spots with concentric rings on ripening fruit and can also affect leaves. Cercospora leaf spot causes circular spots with a gray center and dark margin ("frog-eye" appearance).
+
+COMMON PESTS
+Thrips and mites cause leaf curling and a bronze/silvery discoloration on the underside of leaves. Fruit borer larvae bore into fruit, causing internal rot. Whitefly is a major concern both as a direct pest and as a vector for leaf curl virus.
+
+HARVESTING
+Green chillies are harvested at full size but before ripening for vegetable use, while red chillies are harvested when fully ripe and dried for spice use.
+
+
+================================================================================
+CHILLI (Capsicum annuum) — COMPLETE AGRICULTURE KNOWLEDGE BASE
+Single combined text file — 31 topic sections + index
+================================================================================
+
+
+################################################################################
+# SOURCE FILE: 00_README.md
+################################################################################
+
+# Chilli Knowledge Base — Index
+
+A RAG-ready documentation pack for chilli (*Capsicum annuum*) cultivation, covering the full crop lifecycle. Each file is self-contained with YAML frontmatter metadata (crop, category, topic, source, region, last_verified) so it can be chunked and indexed independently — a query about whitefly retrieves only the whitefly document, not an entire cultivation manual.
+
+## Structure
+
+| File | Topic |
+|---|---|
+| 01_chilli_overview.md | Crop overview |
+| 02_climate_requirements.md | Climate requirements |
+| 03_soil_requirements.md | Soil requirements |
+| 04_land_preparation.md | Land preparation |
+| 05_varieties.md | Varieties |
+| 06_seed_selection.md | Seed selection |
+| 07_seed_treatment.md | Seed treatment |
+| 08_nursery_management.md | Nursery management |
+| 09_transplanting.md | Transplanting |
+| 10_spacing.md | Spacing |
+| 11_irrigation.md | Irrigation |
+| 12_mulching.md | Mulching |
+| 13_nutrient_management.md | Nutrient/fertilizer management |
+| 14_weed_management.md | Weed management |
+| 15_thrips.md | Pest: Thrips |
+| 16_mites.md | Pest: Mites |
+| 17_whitefly.md | Pest: Whitefly |
+| 18_fruit_borer.md | Pest: Fruit borer |
+| 19_leaf_curl.md | Disease: Leaf curl virus |
+| 20_anthracnose.md | Disease: Anthracnose/fruit rot |
+| 21_cercospora.md | Disease: Cercospora leaf spot |
+| 22_bacterial_leaf_spot.md | Disease: Bacterial leaf spot |
+| 23_powdery_mildew.md | Disease: Powdery mildew |
+| 24_damping_off.md | Disease: Damping-off |
+| 25_root_knot_nematode.md | Disease: Root-knot nematode |
+| 26_ipm.md | Integrated Pest Management |
+| 27_flower_drop.md | Disorder: Flower drop |
+| 28_fruit_drop.md | Disorder: Fruit drop |
+| 29_harvesting.md | Harvesting |
+| 30_post_harvest.md | Post-harvest management |
+| 31_chilli_faq.md | FAQ / test query set |
+
+## Usage notes for RAG integration
+
+- Ingest one file per chunk (or split further if a file exceeds your chunk size).
+- Parse the YAML frontmatter into your metadata store (crop, category, topic, source, region, last_verified) so answers can cite source/region/date rather than presenting figures as universal.
+- Fertilizer, pesticide, and spacing figures are given as **examples with context** (e.g., irrigated vs. rainfed) — do not flatten these into single universal values when answering user queries.
+- Extend this same structure for other crops (rice, cotton, groundnut, tomato, etc.) to build a multi-crop knowledge base.
+
+
+################################################################################
+# SOURCE FILE: 01_chilli_overview.md
+################################################################################
+
+---
+crop: chilli
+category: overview
+topic: crop_overview
+scientific_name: Capsicum annuum
+region: India
+language: English
+source: ICAR Kharif Agro-Advisory 2025 (general reference)
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Crop Overview
+
+**Crop:** Chilli / Chili Pepper
+**Scientific name:** *Capsicum annuum*
+**Crop category:** Vegetable / Spice crop
+**Uses:** Green vegetable, dry spice, processing, pickles, sauces, and other food products.
+
+## Note on regional variation
+
+Recommendations for fertilizer rates, pesticide products, and application rates can vary by variety, soil type, state, season, product-registration status, and local agricultural guidance. Any answer drawing on this knowledge base should cite the source and region/date for such recommendations rather than presenting a single figure as universal.
+
+## Production systems
+
+Chilli is grown for two main end uses:
+
+- **Green fruit** — harvested young for vegetable/fresh market use
+- **Dry red chilli** — left to mature and ripen, then dried for spice use
+
+It can be cultivated under both **irrigated** and **rainfed** conditions, and practices differ substantially between the two.
+
+## Key factors affecting production
+
+- Variety
+- Soil type and drainage
+- Temperature and rainfall
+- Irrigation availability
+- Nutrient management
+- Pest and disease pressure
+- Crop management practices
+- Harvesting stage and timing
+
+## Related documents
+
+- 02_climate_requirements.md
+- 03_soil_requirements.md
+- 05_varieties.md
+- 29_harvesting.md
+
+
+################################################################################
+# SOURCE FILE: 02_climate_requirements.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: climate_requirements
+region: India
+language: English
+source: General agronomic guidance / ICAR advisory context
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Climate Requirements
+
+Chilli generally performs best under warm growing conditions, but several climate factors interact to determine yield and quality.
+
+## Temperature
+
+Temperature influences every growth stage:
+
+- Germination
+- Vegetative growth
+- Flowering
+- Fruit setting
+- Fruit development
+- Fruit colour development
+
+**Extreme temperatures (too hot or too cold) can cause:**
+- Flower drop
+- Poor fruit setting
+- Reduced fruit development
+- General plant stress
+
+## Rainfall
+
+Excessive rainfall can create:
+- Waterlogging
+- Root problems (including root rot)
+- Increased fungal and bacterial disease pressure
+- Nutrient leaching/losses
+
+Good field drainage becomes especially important during heavy rainfall periods.
+
+## Humidity
+
+High humidity combined with prolonged leaf wetness increases the risk of foliar and fruit diseases (see 20_anthracnose.md, 22_bacterial_leaf_spot.md, 23_powdery_mildew.md).
+
+## Related documents
+
+- 03_soil_requirements.md
+- 04_land_preparation.md
+- 20_anthracnose.md
+
+
+################################################################################
+# SOURCE FILE: 03_soil_requirements.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: soil_requirements
+region: India
+language: English
+source: ICAR advisory guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Soil Requirements
+
+## Suitable soil types
+
+- Sandy loam
+- Loam
+- Clay loam
+
+## Key soil characteristics
+
+- Good drainage
+- Adequate organic matter
+- Good fertility
+- Suitable pH
+- Good soil structure
+
+## Soil pH
+
+A moderately acidic to neutral soil reaction is generally suitable — approximately **pH 6.0–7.0** is commonly cited.
+
+## Conditions to avoid
+
+- Persistent waterlogging
+- Poor drainage
+- Severe salinity
+- Severe soil-borne disease history without appropriate management
+
+Waterlogged conditions in particular promote root rot and should be avoided at all cultivation stages.
+
+## Related documents
+
+- 04_land_preparation.md
+- 11_irrigation.md
+- 25_root_knot_nematode.md
+
+
+################################################################################
+# SOURCE FILE: 04_land_preparation.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: land_preparation
+region: India
+language: English
+source: ICAR advisory guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Land Preparation
+
+Land should be prepared to provide good soil tilth, adequate drainage, uniform root development, and effective weed management.
+
+## General preparation sequence
+
+1. Field selection
+2. Removal of weeds and crop residues
+3. Primary tillage
+4. Soil preparation (secondary tillage/leveling)
+5. Organic manure application (basal, where recommended)
+6. Raised beds or ridges-and-furrows (where appropriate)
+7. Planting
+
+## Note on raised beds
+
+In areas receiving heavy rainfall, raised beds and furrows help reduce water stagnation and root stress. ICAR advisory guidance recommends well-drained upland or medium-upland fields and raised bed-and-furrow planting where relevant to the production system.
+
+## Related documents
+
+- 03_soil_requirements.md
+- 08_nursery_management.md
+- 10_spacing.md
+
+
+################################################################################
+# SOURCE FILE: 05_varieties.md
+################################################################################
+
+---
+crop: chilli
+category: planting_material
+topic: varieties
+region: India
+language: English
+source: ICAR Landmark Varieties / advisory guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Varieties
+
+Variety selection should be based on local conditions rather than a single "best" recommendation.
+
+## Selection depends on
+
+- Green vs. dry chilli production goal
+- Local climate
+- Disease pressure in the area
+- Market/buyer requirements
+- Irrigated vs. rainfed conditions
+- Local agricultural extension recommendations
+
+## Examples referenced in ICAR material
+
+- Arka Tejasvi — hybrid noted for leaf-curl-virus resistance
+- Arka Tanvi
+- Arka Yashasvi
+- Arka Lohit
+- Arka Meghana
+- Arka Khyati
+- Byadagi types (regional, spice-grade)
+
+> **Important:** Do not present one variety as universally "best." The correct answer is: *"Suitable varieties depend on your region, season, production purpose, and local disease pressure — check with local agricultural extension services for current recommendations."*
+
+## Related documents
+
+- 01_chilli_overview.md
+- 19_leaf_curl.md
+- 26_ipm.md
+
+
+################################################################################
+# SOURCE FILE: 06_seed_selection.md
+################################################################################
+
+---
+crop: chilli
+category: planting_material
+topic: seed_selection
+region: India
+language: English
+source: General agronomic guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Seed Selection
+
+## Select
+
+- Healthy seeds
+- High-quality seeds
+- Variety suited to local conditions and market
+- Disease-free planting material
+- Seed sourced from a reliable, reputable supplier
+
+## Avoid
+
+- Damaged seeds
+- Diseased seed lots
+- Seed of unknown quality or origin
+
+Good seed selection is the foundation for reducing early disease incidence (see 07_seed_treatment.md and 25_damping_off... see 24_damping_off.md).
+
+## Related documents
+
+- 07_seed_treatment.md
+- 08_nursery_management.md
+
+
+################################################################################
+# SOURCE FILE: 07_seed_treatment.md
+################################################################################
+
+---
+crop: chilli
+category: planting_material
+topic: seed_treatment
+region: India
+language: English
+source: ICAR advisory guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Seed Treatment
+
+Seed treatment practices vary by local recommendations and currently registered products, so specific product names and doses should always be checked against current, local, label-approved guidance.
+
+## Purpose of seed treatment
+
+- Improve seedling establishment
+- Reduce certain seed-borne and soil-borne disease risks
+- Support healthy early growth
+
+## Example approaches referenced in ICAR advisory material
+
+- Chemical seed treatments (per local label recommendations)
+- Biological treatments, including *Trichoderma* and *Azospirillum*
+
+A brief root dip in a fungicide solution before transplanting is also a commonly used practice to help reduce wilt incidence at the transplanting stage.
+
+> **Important:** Use only locally approved products at label-recommended rates. Do not hard-code a single chemical recommendation as universal — always attach source, region, and date to specific product guidance.
+
+## Related documents
+
+- 06_seed_selection.md
+- 08_nursery_management.md
+- 24_damping_off.md
+
+
+################################################################################
+# SOURCE FILE: 08_nursery_management.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: nursery_management
+region: India
+language: English
+source: General agronomic guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Nursery Management
+
+Chilli is commonly established through nursery-raised seedlings rather than direct seeding.
+
+## Nursery sequence
+
+1. Start with quality seed
+2. Prepare the nursery bed
+3. Treat seed (see 07_seed_treatment.md)
+4. Sow
+5. Establish seedlings
+6. Monitor for pests/disease
+7. Select healthy seedlings
+8. Transplant
+
+## Nursery requirements
+
+- Good drainage
+- Clean planting material
+- Adequate sunlight
+- Proper (not excessive) irrigation
+- Weed management
+- Regular disease monitoring
+
+## Duration
+
+Seeds are typically raised in the nursery for about **30–35 days** before transplanting.
+
+## Key risk
+
+Avoid excessive watering — prolonged moisture in the nursery increases the risk of damping-off and other seedling diseases (see 24_damping_off.md).
+
+## Related documents
+
+- 07_seed_treatment.md
+- 09_transplanting.md
+- 24_damping_off.md
+
+
+################################################################################
+# SOURCE FILE: 09_transplanting.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: transplanting
+region: India
+language: English
+source: General agronomic guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Transplanting
+
+## Seedling selection for transplanting
+
+Prefer seedlings that are:
+
+- Healthy
+- Vigorous
+- Free from visible disease
+- Free from significant pest damage
+- Uniform in growth stage
+
+Avoid transplanting severely damaged, stunted, or diseased seedlings — this can introduce disease into the main field and reduce establishment rates.
+
+## Recommended precaution
+
+A brief root dip in a fungicide solution before transplanting can help reduce wilt incidence.
+
+## Related documents
+
+- 06_seed_selection.md
+- 08_nursery_management.md
+- 10_spacing.md
+
+
+################################################################################
+# SOURCE FILE: 10_spacing.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: spacing
+region: India
+language: English
+source: ICAR Kharif Agro-Advisory 2025 (example figures)
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Spacing
+
+Spacing recommendations depend on variety, irrigation availability, soil fertility, and the overall production system — there is no single universal number.
+
+## Commonly cited general range
+
+- **45–60 cm** between rows
+- **30–45 cm** between plants
+
+## Examples from ICAR advisory material
+
+- **75 × 45 cm** under irrigated conditions
+- **90 × 90 cm** under rainfed conditions
+
+Other ICAR field demonstrations have used different spacing again — this variation is exactly why spacing recommendations should always be tied to their specific production system (irrigated/rainfed), variety, and source document rather than generalized.
+
+## Related documents
+
+- 03_soil_requirements.md
+- 09_transplanting.md
+- 11_irrigation.md
+
+
+################################################################################
+# SOURCE FILE: 11_irrigation.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: irrigation
+region: India
+language: English
+source: ICAR advisory guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Irrigation Management
+
+Chilli requires regular but moderate irrigation. Irrigation intervals vary by soil type and production condition — there is no single fixed schedule that applies to every farm.
+
+## Critical growth stages for water
+
+- Establishment
+- **Flowering** (most sensitive to water stress)
+- **Fruit setting** (most sensitive to water stress)
+- Fruit development
+
+Water stress during flowering and fruiting is a common cause of flower/fruit drop (see 27_flower_drop.md, 28_fruit_drop.md).
+
+## Risks of over-irrigation
+
+- Root problems, including root rot
+- Nutrient loss/leaching
+- Increased disease development
+- Poor overall plant growth
+
+## Drip irrigation
+
+Drip irrigation, especially combined with mulching, is increasingly used because it:
+
+- Improves water-use efficiency
+- Supports fertigation
+- Reduces water wastage
+- Reduces weed pressure
+- Reduces disease pressure from leaf wetness
+
+## Related documents
+
+- 12_mulching.md
+- 27_flower_drop.md
+- 28_fruit_drop.md
+
+
+################################################################################
+# SOURCE FILE: 12_mulching.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: mulching
+region: India
+language: English
+source: ICAR case study reference
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Mulching
+
+## Benefits
+
+- Conserves soil moisture
+- Reduces weed pressure
+- Moderates soil temperature
+- Reduces soil splash onto lower leaves/fruit (helps limit disease spread)
+- Improves overall water-use efficiency
+
+Organic or other mulching materials can be selected based on local availability and the production system in use. ICAR has documented chilli production cases where mulching was used specifically for soil-moisture conservation and weed suppression.
+
+## Related documents
+
+- 11_irrigation.md
+- 20_anthracnose.md (soil-splash-related fruit rot)
+
+
+################################################################################
+# SOURCE FILE: 13_nutrient_management.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: nutrient_management
+region: India
+language: English
+source: ICAR advisory guidance (balanced fertilizer use)
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Nutrient Management
+
+## Macronutrients
+
+- Nitrogen (N)
+- Phosphorus (P)
+- Potassium (K)
+
+A balanced NPK program combined with organic manure as a basal application supports healthy overall growth.
+
+## Secondary and micronutrients (soil-dependent)
+
+- Calcium
+- Magnesium
+- Sulphur
+- Boron
+- Zinc
+- Iron
+
+**Calcium and boron deficiencies** are specifically linked to flower drop and poor fruit set. Foliar micronutrient sprays during flowering are sometimes used to address this.
+
+## Basis for recommendations
+
+Nutrient management should ideally be based on:
+
+- Soil test results
+- Crop growth stage/requirement
+- Variety
+- Production system
+- Existing soil organic matter
+- Previous crop grown in the field
+
+ICAR guidance emphasizes balanced fertilizer use and overall soil-health management rather than indiscriminate fertilizer application.
+
+## Organic manure sources
+
+- Farmyard manure
+- Compost
+- Vermicompost
+- Suitable green manures
+- Approved biofertilizers
+
+Organic amendments improve soil structure, organic matter content, nutrient availability, and soil biological activity.
+
+## Related documents
+
+- 27_flower_drop.md
+- 28_fruit_drop.md
+
+
+################################################################################
+# SOURCE FILE: 14_weed_management.md
+################################################################################
+
+---
+crop: chilli
+category: cultivation
+topic: weed_management
+region: India
+language: English
+source: ICAR advisory guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Weed Management
+
+Weeds compete with chilli for water, nutrients, light, and space, and can also harbor pests and diseases.
+
+## Cultural methods
+
+- Clean field preparation
+- Mulching
+- Timely intercultivation (inter-row cultivation)
+- Manual weeding
+
+## Integrated approach
+
+Combine cultural practices, mechanical practices, mulching, and locally approved herbicides where needed.
+
+> **Important:** ICAR advisory material includes herbicide recommendations for specific production situations. Any herbicide guidance retrieved from this knowledge base should retain its source and production context (crop stage, region, registration status) rather than being generalized as a universal rate.
+
+## Related documents
+
+- 04_land_preparation.md
+- 12_mulching.md
+
+
+################################################################################
+# SOURCE FILE: 15_thrips.md
+################################################################################
+
+---
+crop: chilli
+category: pest
+topic: thrips
+region: India
+language: English
+source: General IPM guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Thrips
+
+## Symptoms
+
+- Leaf curling
+- Silvery/bronze discoloration on the underside of leaves
+- Distorted young leaves
+- Reduced plant growth
+- Flower damage
+
+## Management (IPM approach)
+
+- Regular field monitoring
+- Weed management (weeds can host thrips)
+- Sticky traps (blue sticky traps are effective for thrips)
+- Biological/cultural control options
+- Locally approved insecticides only when monitoring indicates it is necessary, applied per label
+
+## Related documents
+
+- 16_mites.md
+- 17_whitefly.md
+- 26_ipm.md
+
+
+################################################################################
+# SOURCE FILE: 16_mites.md
+################################################################################
+
+---
+crop: chilli
+category: pest
+topic: mites
+region: India
+language: English
+source: General IPM guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Mites
+
+## Symptoms
+
+- Leaf curling
+- Bronzing of leaf surfaces
+- Leaf distortion
+- Reduced plant growth
+
+Symptoms overlap significantly with thrips damage, so close inspection (e.g., with a hand lens on the leaf underside) is often needed to distinguish the two.
+
+## Management
+
+- Regular monitoring of leaf undersides
+- Integrated pest-management practices (cultural + biological before chemical)
+- Avoid conditions that favor mite buildup (e.g., dusty, water-stressed plants)
+
+## Related documents
+
+- 15_thrips.md
+- 26_ipm.md
+
+
+################################################################################
+# SOURCE FILE: 17_whitefly.md
+################################################################################
+
+---
+crop: chilli
+category: pest
+topic: whitefly
+region: India
+language: English
+source: ICAR advisory guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Whitefly
+
+Whitefly is a major concern in chilli both as a **direct feeding pest** and as the **vector for leaf curl virus** — making it one of the highest-priority pests to manage.
+
+## Symptoms
+
+- Leaf curling
+- Yellowing
+- Reduced plant vigour
+- Sticky honeydew deposits on leaves
+- Sooty mould may develop on the honeydew
+
+## Management (IPM components)
+
+- Nursery protection (screening nurseries can prevent early infection)
+- Weed control around fields (removes alternate hosts)
+- Yellow sticky traps
+- Regular monitoring
+- Biological control options
+- Locally approved, registered insecticides when required
+
+ICAR advisory material specifically identifies whitefly and the leaf-curl disease complex as a priority chilli management concern.
+
+## Related documents
+
+- 19_leaf_curl.md
+- 26_ipm.md
+
+
+################################################################################
+# SOURCE FILE: 18_fruit_borer.md
+################################################################################
+
+---
+crop: chilli
+category: pest
+topic: fruit_borer
+region: India
+language: English
+source: ICAR advisory guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Fruit Borer
+
+## Symptoms
+
+- Larvae bore into fruit and feed internally
+- Holes visible on fruit surface
+- Larval presence inside fruit
+- Internal rot of the fruit
+
+## Management (IPM approach)
+
+- Regular field monitoring
+- Removal and destruction of damaged/infested fruits
+- Trap crops — ICAR advisory material mentions marigold as a trap-crop option
+- Pheromone traps for monitoring/mass trapping
+- Biological control agents
+- Locally approved insecticides only where necessary
+
+## Related documents
+
+- 26_ipm.md
+- 20_anthracnose.md (fruit symptoms can be confused with borer damage — inspect carefully)
+
+
+################################################################################
+# SOURCE FILE: 19_leaf_curl.md
+################################################################################
+
+---
+crop: chilli
+category: disease
+topic: leaf_curl_virus
+causal_organism: Begomovirus (whitefly-transmitted)
+region: India
+language: English
+source: General plant pathology / ICAR advisory guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Leaf Curl Virus
+
+## Causal organism / transmission
+
+A virus (begomovirus complex) transmitted primarily by **whiteflies**.
+
+## Symptoms
+
+- Upward (or sometimes downward) curling of leaves
+- Leaf crinkling and distortion
+- Reduced leaf size
+- Stunted plant growth
+- Reduced fruit production
+
+## Favourable conditions
+
+Whitefly population buildup, particularly in warm, dry conditions, drives disease spread.
+
+## Prevention and management
+
+- Start with healthy, disease-free seedlings
+- Protect the nursery from whitefly entry (screening/netting)
+- Manage whitefly populations (see 17_whitefly.md)
+- Remove severely affected plants where locally recommended, to reduce virus source
+- Manage weeds that can host whiteflies or the virus
+- Use resistant/tolerant varieties where available (e.g., some hybrids are bred for leaf-curl resistance)
+
+## Related documents
+
+- 17_whitefly.md
+- 05_varieties.md
+
+
+################################################################################
+# SOURCE FILE: 20_anthracnose.md
+################################################################################
+
+---
+crop: chilli
+category: disease
+topic: anthracnose_fruit_rot
+causal_organism: Colletotrichum spp.
+region: India
+language: English
+source: General plant pathology guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Anthracnose (Fruit Rot)
+
+## Symptoms
+
+- Sunken, dark, circular spots on ripening fruit
+- Concentric rings often visible within the lesion
+- Can also affect leaves
+- Severely infected fruit develops extensive decay
+
+## Favourable conditions
+
+- High humidity
+- Prolonged moist conditions
+- Rainfall during fruit ripening
+- Infected crop residues left in the field
+
+## Prevention and management
+
+- Use healthy, certified seed
+- Practice field sanitation (remove infected fruit/residue)
+- Avoid prolonged leaf/fruit wetness (drip irrigation over overhead irrigation helps)
+- Maintain proper plant spacing for airflow
+- Rotate crops where appropriate
+- Use locally approved fungicides according to label recommendations when disease pressure is high
+
+## Related documents
+
+- 12_mulching.md
+- 22_bacterial_leaf_spot.md
+
+
+################################################################################
+# SOURCE FILE: 21_cercospora.md
+################################################################################
+
+---
+crop: chilli
+category: disease
+topic: cercospora_leaf_spot
+causal_organism: Cercospora capsici
+region: India
+language: English
+source: General plant pathology guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Cercospora Leaf Spot
+
+## Symptoms
+
+- Circular leaf spots
+- Grayish/white centres with dark margins — often called a **"frog-eye" appearance**
+- Premature leaf loss (defoliation) under severe infection, which can reduce fruiting
+
+## Favourable conditions
+
+Warm, humid weather with extended leaf wetness favours disease spread.
+
+## Management
+
+- Field sanitation and removal of infected leaf debris
+- Avoid overhead irrigation where possible
+- Adequate spacing for airflow
+- Crop rotation
+- Locally approved fungicides where infection is severe
+
+## Related documents
+
+- 20_anthracnose.md
+- 22_bacterial_leaf_spot.md
+
+
+################################################################################
+# SOURCE FILE: 22_bacterial_leaf_spot.md
+################################################################################
+
+---
+crop: chilli
+category: disease
+topic: bacterial_leaf_spot
+causal_organism: Xanthomonas spp.
+region: India
+language: English
+source: General plant pathology guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Bacterial Leaf Spot
+
+## Symptoms
+
+- Small, water-soaked spots initially
+- Spots turn brown/black over time
+- Yellow halo often surrounds the spot
+- Severe infection can cause significant leaf drop
+
+## Management
+
+- Use clean, disease-free planting material
+- Practice field sanitation
+- Avoid unnecessary leaf wetness (irrigation timing/method matters)
+- Rotate crops
+- Follow locally approved management measures for severe outbreaks
+
+## Related documents
+
+- 21_cercospora.md
+- 20_anthracnose.md
+
+
+################################################################################
+# SOURCE FILE: 23_powdery_mildew.md
+################################################################################
+
+---
+crop: chilli
+category: disease
+topic: powdery_mildew
+causal_organism: Leveillula taurica (commonly)
+region: India
+language: English
+source: General plant pathology guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Powdery Mildew
+
+## Symptoms
+
+- White, powder-like fungal growth on leaf surfaces (often visible on the underside first)
+- Leaf yellowing
+- Reduced photosynthesis
+- Premature leaf drop under heavy infection
+
+## Management
+
+Management depends on disease severity and local recommendations; general practices include improving air circulation, avoiding excess nitrogen (which promotes susceptible soft growth), and using locally approved fungicides when infection is significant.
+
+## Related documents
+
+- 21_cercospora.md
+- 13_nutrient_management.md
+
+
+################################################################################
+# SOURCE FILE: 24_damping_off.md
+################################################################################
+
+---
+crop: chilli
+category: disease
+topic: damping_off
+causal_organism: Pythium spp., Rhizoctonia spp. (soil-borne fungi)
+region: India
+language: English
+source: General plant pathology guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Damping-Off
+
+This disease is specifically important at the **nursery stage**.
+
+## Symptoms
+
+- Seedling collapse at or near the soil line
+- Stem/collar damage
+- Patchy, irregular seedling death in the nursery bed
+
+## Risk factors
+
+- Excessive nursery moisture
+- Poor nursery drainage
+- Overcrowded/dense sowing
+- Poor nursery sanitation
+
+## Prevention
+
+- Ensure proper nursery drainage
+- Use healthy, treated seed (see 07_seed_treatment.md)
+- Water appropriately — avoid overwatering
+- Use clean nursery growing media
+- Avoid overcrowding seedlings
+
+## Related documents
+
+- 07_seed_treatment.md
+- 08_nursery_management.md
+
+
+################################################################################
+# SOURCE FILE: 25_root_knot_nematode.md
+################################################################################
+
+---
+crop: chilli
+category: disease
+topic: root_knot_nematode
+causal_organism: Meloidogyne spp.
+region: India
+language: English
+source: General plant pathology guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Root-Knot Nematode
+
+## Symptoms
+
+- Stunted plants
+- Yellowing foliage
+- Wilting, especially in warm/dry periods
+- Poor nutrient and water uptake
+- Characteristic root galls/knots (visible on digging up affected roots)
+
+## Management
+
+Integrated practices work best:
+
+- Crop rotation with non-host crops
+- Nursery sanitation
+- Suitable biological control agents
+- Cultural practices such as soil solarization where feasible
+
+## Related documents
+
+- 03_soil_requirements.md
+- 26_ipm.md
+
+
+################################################################################
+# SOURCE FILE: 26_ipm.md
+################################################################################
+
+---
+crop: chilli
+category: pest_disease_management
+topic: integrated_pest_management
+region: India
+language: English
+source: General IPM guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Integrated Pest Management (IPM)
+
+Chemical control should not be the first response to a pest or disease problem. The recommended IPM sequence is:
+
+1. Regular monitoring
+2. Correct identification of the pest/disease
+3. Determine severity/threshold
+4. Cultural control
+5. Mechanical control
+6. Biological control
+7. Chemical control — only when justified by severity
+8. Always follow label and local recommendations for any chemical used
+
+## IPM tools
+
+- Sticky traps (yellow for whitefly, blue for thrips)
+- Pheromone traps
+- Trap crops (e.g., marigold for fruit borer)
+- Field/crop sanitation
+- Weed management
+- Resistant/tolerant varieties
+- Biological control agents
+- Proper irrigation practices
+- Proper plant spacing
+
+## Related documents
+
+- 15_thrips.md, 16_mites.md, 17_whitefly.md, 18_fruit_borer.md
+- 19_leaf_curl.md, 20_anthracnose.md, 21_cercospora.md, 22_bacterial_leaf_spot.md
+
+
+################################################################################
+# SOURCE FILE: 27_flower_drop.md
+################################################################################
+
+---
+crop: chilli
+category: physiological_disorder
+topic: flower_drop
+region: India
+language: English
+source: General agronomic guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Flower Drop
+
+## Possible contributing factors
+
+- Temperature stress (too hot or too cold)
+- Water stress (both drought and waterlogging)
+- Nutrient imbalance (especially calcium/boron deficiency)
+- Pest damage (thrips, mites)
+- Disease pressure
+- Poor pollination conditions
+
+## Diagnostic approach
+
+Flower drop should **not** be attributed to a single cause (e.g., "nutrient deficiency") without checking context. Useful diagnostic questions:
+
+- What is the crop age/growth stage?
+- What has the recent temperature been?
+- Is irrigation regular, or has there been a recent dry/wet spell?
+- Are thrips or mites visible on flowers/leaves?
+- Are flowers dropping before or after opening?
+
+## Related documents
+
+- 11_irrigation.md
+- 13_nutrient_management.md
+- 15_thrips.md
+
+
+################################################################################
+# SOURCE FILE: 28_fruit_drop.md
+################################################################################
+
+---
+crop: chilli
+category: physiological_disorder
+topic: fruit_drop
+region: India
+language: English
+source: General agronomic guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Fruit Drop
+
+## Possible causes
+
+- Environmental stress (heat, cold)
+- Water stress
+- Nutrient imbalance
+- Pest attack
+- Disease
+- Poor fruit setting at the flowering stage
+
+## Diagnostic approach
+
+As with flower drop, diagnosis should be based on observed symptoms and field context (recent weather, irrigation history, visible pests/disease) rather than a single default cause.
+
+## Related documents
+
+- 27_flower_drop.md
+- 11_irrigation.md
+- 13_nutrient_management.md
+
+
+################################################################################
+# SOURCE FILE: 29_harvesting.md
+################################################################################
+
+---
+crop: chilli
+category: harvest
+topic: harvesting
+region: India
+language: English
+source: General agronomic guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Harvesting
+
+Harvest timing and method depend on the intended market.
+
+## Green chilli (vegetable use)
+
+Harvest when fruits have:
+
+- Reached full/marketable size
+- Appropriate maturity for fresh use
+- Good marketable appearance
+
+Harvested **before ripening** (i.e., while still green).
+
+## Red / dry chilli (spice use)
+
+Fruits are left on the plant until **fully ripe** (red), then harvested and dried for spice use.
+
+Harvesting frequency depends on variety, local climate, and market requirements — chilli is typically harvested over multiple pickings rather than all at once.
+
+## Related documents
+
+- 30_post_harvest.md
+
+
+################################################################################
+# SOURCE FILE: 30_post_harvest.md
+################################################################################
+
+---
+crop: chilli
+category: post_harvest
+topic: post_harvest_management
+region: India
+language: English
+source: General agronomic guidance
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Post-Harvest Management
+
+## Sequence
+
+1. Harvest
+2. Sorting
+3. Cleaning
+4. Grading
+5. Drying / cooling (depending on product type)
+6. Packaging
+7. Storage
+8. Marketing
+
+## Drying (for dry/red chilli)
+
+Proper drying is essential for:
+
+- Colour retention
+- Overall quality
+- Storage stability
+- Preventing mould development
+
+**Avoid storing inadequately dried chilli** — excess residual moisture promotes spoilage and mould growth during storage.
+
+## Related documents
+
+- 29_harvesting.md
+
+
+################################################################################
+# SOURCE FILE: 31_chilli_faq.md
+################################################################################
+
+---
+crop: chilli
+category: faq
+topic: common_farmer_questions
+region: India
+language: English
+source: Compiled from knowledge base topics
+document_type: agriculture_advisory
+last_verified: 2026
+---
+
+# Chilli — Frequently Asked Questions (RAG Test Query Set)
+
+Use these as sample retrieval-test queries against the knowledge base.
+
+## Soil
+
+- Which soil is suitable for chilli? → 03_soil_requirements.md
+- What is the ideal pH for chilli? → 03_soil_requirements.md
+- Can chilli grow in black/clay soil? → 03_soil_requirements.md
+- How can I improve poor soil for chilli? → 03_soil_requirements.md, 13_nutrient_management.md
+
+## Nursery
+
+- How should I prepare a chilli nursery? → 08_nursery_management.md
+- How old should chilli seedlings be before transplanting? → 08_nursery_management.md
+- Why are my chilli seedlings dying? → 24_damping_off.md
+
+## Irrigation
+
+- How often should chilli be irrigated? → 11_irrigation.md
+- Can I use drip irrigation for chilli? → 11_irrigation.md, 12_mulching.md
+- Why are my chilli plants wilting? → 11_irrigation.md, 25_root_knot_nematode.md
+
+## Fertilizer
+
+- What nutrients does chilli need? → 13_nutrient_management.md
+- Why are chilli leaves turning yellow? → 13_nutrient_management.md, 17_whitefly.md
+- What causes flower drop? → 27_flower_drop.md
+- How do I manage nutrient deficiency? → 13_nutrient_management.md
+
+## Diseases
+
+- What causes chilli leaf curl? → 19_leaf_curl.md
+- How do I identify anthracnose? → 20_anthracnose.md
+- Why are chilli fruits developing black spots? → 20_anthracnose.md
+- What causes chilli leaf spots? → 21_cercospora.md, 22_bacterial_leaf_spot.md
+
+## Pests
+
+- How can I identify thrips? → 15_thrips.md
+- How can I control whiteflies? → 17_whitefly.md
+- Why are chilli leaves curling? → 15_thrips.md, 16_mites.md, 19_leaf_curl.md
+- What causes bronze colour on chilli leaves? → 15_thrips.md, 16_mites.md
+
+## Harvest
+
+- When should green chilli be harvested? → 29_harvesting.md
+- When should red chilli be harvested? → 29_harvesting.md
+- How should dry chilli be stored? → 30_post_harvest.md

@@ -1,0 +1,16 @@
+TITLE: Common Crop Disease Reference
+
+FUNGAL DISEASES
+Fungal diseases such as blast (rice), wilt (cotton, chilli), rust (groundnut), and anthracnose (chilli, many fruits) thrive in humid conditions with poor air circulation. Symptoms often include spots, lesions, wilting, or powdery/rusty growth on leaves and stems. Management includes resistant varieties, proper spacing for airflow, crop rotation, and timely fungicide application.
+
+BACTERIAL DISEASES
+Bacterial leaf blight (rice) and bacterial blight (cotton) cause water-soaked lesions that often turn brown or yellow with a distinct margin, sometimes with a foul odor in advanced stages. Bactericides based on copper compounds and use of disease-free seed help manage bacterial diseases, since they spread rapidly in wet, warm weather.
+
+VIRAL DISEASES
+Viral diseases like leaf curl virus (chilli, cotton) are typically spread by insect vectors such as whiteflies and aphids rather than by direct plant-to-plant contact. Symptoms include curling, mosaic patterns, stunting, and yellowing. Since there is no direct cure once a plant is infected, managing the insect vector and removing infected plants early are the primary control strategies.
+
+SOIL-BORNE DISEASES
+Root rot, collar rot, and damping-off are caused by soil-borne fungi and are worsened by waterlogging and poor drainage. Seed treatment, well-drained soil, and avoiding continuous cropping of the same crop family help reduce incidence.
+
+DIAGNOSING LEAF SYMPTOMS (GENERAL GUIDANCE)
+Yellowing starting from older leaves often points to nitrogen deficiency, while yellowing between veins on younger leaves may indicate a micronutrient deficiency. Spots with concentric rings are typically fungal (like anthracnose), while water-soaked lesions with a yellow halo are often bacterial. Curling and stunting with a mosaic or mottled pattern usually indicate a viral infection spread by an insect vector. A physical sample and, where possible, a diagnostic lab test are recommended for confirmation before starting a fungicide, bactericide, or other treatment program.
