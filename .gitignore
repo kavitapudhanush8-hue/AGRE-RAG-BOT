@@ -7,3 +7,9 @@ env/
 venv/
 .env
 .venv
+
+# Build artifacts - regenerate with: python ingest.py
+index.pkl
+
+# Scratch / utility scripts
+list_models.py
