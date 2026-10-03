@@ -1,0 +1,105 @@
+TITLE: Rice Cultivation Guide
+
+SOIL REQUIREMENTS
+Rice grows best in clayey or clay-loam soils that can hold standing water. Ideal soil pH ranges from 5.5 to 6.5. Fields are usually puddled (plowed while flooded) before transplanting to reduce water seepage and control weeds.
+
+SEED SELECTION AND NURSERY
+Use certified, disease-free seed of a variety suited to the local season (short, medium, or long duration). Seeds are often soaked for 24 hours and incubated for sprouting before sowing in a nursery bed. Nursery seedlings are typically ready for transplanting in 20-25 days.
+
+SOWING AND TRANSPLANTING
+Transplant 2-3 seedlings per hill at a spacing of about 20x15 cm. Direct seeding is also practiced in water-scarce regions using drum seeders or broadcasting pre-germinated seed.
+
+IRRIGATION
+Rice needs consistent water availability, particularly during tillering, panicle initiation, and flowering. A shallow standing water depth of 2-5 cm is commonly maintained, though alternate wetting and drying (AWD) is recommended to save water without reducing yield significantly.
+
+FERTILIZER MANAGEMENT
+Nitrogen is typically applied in split doses: at basal (before transplanting), tillering, and panicle initiation stages. Phosphorus is usually applied fully as basal dose, and potassium is split between basal and panicle initiation. A soil test is recommended to fine-tune exact rates, since requirements vary with soil fertility and target yield.
+
+COMMON DISEASES
+Blast (caused by a fungus) appears as spindle-shaped lesions on leaves and can affect the neck of the panicle. Bacterial leaf blight causes water-soaked streaks that turn yellow-white along leaf margins. Sheath blight shows as irregular greenish-gray lesions on the leaf sheath near the waterline. Field sanitation, resistant varieties, and timely fungicide/bactericide application help manage these diseases.
+
+COMMON PESTS
+Stem borers tunnel into the stem causing "deadheart" in young plants and "whitehead" in the reproductive stage. Brown planthopper sucks sap at the base of plants and can cause "hopperburn." Leaf folder larvae fold leaves and scrape the green tissue. Integrated pest management combining resistant varieties, natural predators, and need-based pesticide use is recommended over routine spraying.
+
+HARVESTING
+Rice is typically harvested when 80-85% of grains have turned golden yellow and moisture content is around 20-25%. Delayed harvest increases shattering losses.
+
+================================================================================
+RICE (Oryza sativa) — CULTIVATION KNOWLEDGE BASE
+================================================================================
+Crop: Rice (Paddy)
+Category: Cereal crop
+Region: India (general)
+Document type: agriculture_advisory
+Last verified: 2026
+
+--------------------------------------------------------------------------------
+SOIL REQUIREMENTS
+--------------------------------------------------------------------------------
+Rice grows best in clayey or clay-loam soils that can hold standing water.
+Ideal soil pH ranges from 5.5 to 6.5. Fields are usually puddled (plowed
+while flooded) before transplanting to reduce water seepage and control
+weeds.
+
+--------------------------------------------------------------------------------
+SEED SELECTION AND NURSERY
+--------------------------------------------------------------------------------
+Use certified, disease-free seed of a variety suited to the local season
+(short, medium, or long duration). Seeds are often soaked for 24 hours and
+incubated for sprouting before sowing in a nursery bed. Nursery seedlings
+are typically ready for transplanting in 20-25 days.
+
+--------------------------------------------------------------------------------
+SOWING AND TRANSPLANTING
+--------------------------------------------------------------------------------
+Transplant 2-3 seedlings per hill at a spacing of about 20x15 cm. Direct
+seeding is also practiced in water-scarce regions using drum seeders or
+broadcasting pre-germinated seed.
+
+--------------------------------------------------------------------------------
+IRRIGATION
+--------------------------------------------------------------------------------
+Rice needs consistent water availability, particularly during tillering,
+panicle initiation, and flowering. A shallow standing water depth of 2-5 cm
+is commonly maintained, though alternate wetting and drying (AWD) is
+recommended to save water without reducing yield significantly.
+
+--------------------------------------------------------------------------------
+FERTILIZER MANAGEMENT
+--------------------------------------------------------------------------------
+Nitrogen is typically applied in split doses: at basal (before
+transplanting), tillering, and panicle initiation stages. Phosphorus is
+usually applied fully as basal dose, and potassium is split between basal
+and panicle initiation. A soil test is recommended to fine-tune exact rates,
+since requirements vary with soil fertility and target yield.
+
+--------------------------------------------------------------------------------
+COMMON DISEASES
+--------------------------------------------------------------------------------
+Blast (caused by a fungus) appears as spindle-shaped lesions on leaves and
+can affect the neck of the panicle. Bacterial leaf blight causes
+water-soaked streaks that turn yellow-white along leaf margins. Sheath
+blight shows as irregular greenish-gray lesions on the leaf sheath near the
+waterline. Field sanitation, resistant varieties, and timely
+fungicide/bactericide application help manage these diseases.
+
+--------------------------------------------------------------------------------
+COMMON PESTS
+--------------------------------------------------------------------------------
+Stem borers tunnel into the stem causing "deadheart" in young plants and
+"whitehead" in the reproductive stage. Brown planthopper sucks sap at the
+base of plants and can cause "hopperburn." Leaf folder larvae fold leaves
+and scrape the green tissue. Integrated pest management combining resistant
+varieties, natural predators, and need-based pesticide use is recommended
+over routine spraying.
+
+--------------------------------------------------------------------------------
+HARVESTING
+--------------------------------------------------------------------------------
+Rice is typically harvested when 80-85% of grains have turned golden yellow
+and moisture content is around 20-25%. Delayed harvest increases shattering
+losses.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

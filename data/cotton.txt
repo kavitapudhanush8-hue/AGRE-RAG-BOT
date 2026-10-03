@@ -1,0 +1,100 @@
+TITLE: Cotton Cultivation Guide
+
+SOIL REQUIREMENTS
+Cotton prefers well-drained black soil (regur) or alluvial soil with good water-holding capacity. Ideal pH is 6.0-8.0. Waterlogging is harmful and should be avoided through proper drainage.
+
+SEED SELECTION
+Bt cotton hybrids are widely grown for bollworm resistance, alongside conventional and desi varieties. Seed treatment with fungicide/insecticide before sowing protects against early seedling diseases and sucking pests.
+
+SOWING
+Sowing is typically done at the onset of the monsoon or under irrigation, with row spacing of 90-120 cm and plant spacing of 30-60 cm depending on variety and soil fertility.
+
+IRRIGATION
+Cotton is moderately drought-tolerant but responds well to irrigation at critical stages: squaring, flowering, and boll development. Excess moisture during boll opening can cause boll rot and reduce fiber quality.
+
+FERTILIZER MANAGEMENT
+Nitrogen is applied in split doses, with higher requirement during the vegetative and flowering-to-boll-development phases. Phosphorus and potassium are usually applied as basal doses. Micronutrients like boron and zinc are often recommended based on soil test results, since cotton is sensitive to their deficiency.
+
+COMMON DISEASES
+Fusarium wilt and bacterial blight cause leaf yellowing, wilting, and angular leaf spots respectively. Root rot appears as sudden wilting of plants, especially in poorly drained fields. Crop rotation, resistant varieties, and seed treatment help manage these diseases.
+
+COMMON PESTS
+Bollworms (American, pink, and spotted bollworm) damage squares and bolls, reducing yield and fiber quality. Whitefly and aphids are sap-sucking pests that can also transmit viral diseases like leaf curl virus. Pink bollworm resistance monitoring is important in Bt cotton areas. Integrated pest management with pheromone traps, natural enemies, and threshold-based spraying is recommended.
+
+HARVESTING
+Cotton is hand-picked in multiple pickings as bolls mature and open, typically starting 150-160 days after sowing and continuing over several weeks.
+
+================================================================================
+COTTON (Gossypium spp.) — CULTIVATION KNOWLEDGE BASE
+================================================================================
+Crop: Cotton
+Category: Fiber crop
+Region: India (general)
+Document type: agriculture_advisory
+Last verified: 2026
+
+--------------------------------------------------------------------------------
+SOIL REQUIREMENTS
+--------------------------------------------------------------------------------
+Cotton prefers well-drained black soil (regur) or alluvial soil with good
+water-holding capacity. Ideal pH is 6.0-8.0. Waterlogging is harmful and
+should be avoided through proper drainage.
+
+--------------------------------------------------------------------------------
+SEED SELECTION
+--------------------------------------------------------------------------------
+Bt cotton hybrids are widely grown for bollworm resistance, alongside
+conventional and desi varieties. Seed treatment with fungicide/insecticide
+before sowing protects against early seedling diseases and sucking pests.
+
+--------------------------------------------------------------------------------
+SOWING
+--------------------------------------------------------------------------------
+Sowing is typically done at the onset of the monsoon or under irrigation,
+with row spacing of 90-120 cm and plant spacing of 30-60 cm depending on
+variety and soil fertility.
+
+--------------------------------------------------------------------------------
+IRRIGATION
+--------------------------------------------------------------------------------
+Cotton is moderately drought-tolerant but responds well to irrigation at
+critical stages: squaring, flowering, and boll development. Excess moisture
+during boll opening can cause boll rot and reduce fiber quality.
+
+--------------------------------------------------------------------------------
+FERTILIZER MANAGEMENT
+--------------------------------------------------------------------------------
+Nitrogen is applied in split doses, with higher requirement during the
+vegetative and flowering-to-boll-development phases. Phosphorus and potassium
+are usually applied as basal doses. Micronutrients like boron and zinc are
+often recommended based on soil test results, since cotton is sensitive to
+their deficiency.
+
+--------------------------------------------------------------------------------
+COMMON DISEASES
+--------------------------------------------------------------------------------
+Fusarium wilt and bacterial blight cause leaf yellowing, wilting, and angular
+leaf spots respectively. Root rot appears as sudden wilting of plants,
+especially in poorly drained fields. Crop rotation, resistant varieties, and
+seed treatment help manage these diseases.
+
+--------------------------------------------------------------------------------
+COMMON PESTS
+--------------------------------------------------------------------------------
+Bollworms (American, pink, and spotted bollworm) damage squares and bolls,
+reducing yield and fiber quality. Whitefly and aphids are sap-sucking pests
+that can also transmit viral diseases like leaf curl virus. Pink bollworm
+resistance monitoring is important in Bt cotton areas. Integrated pest
+management with pheromone traps, natural enemies, and threshold-based
+spraying is recommended.
+
+--------------------------------------------------------------------------------
+HARVESTING
+--------------------------------------------------------------------------------
+Cotton is hand-picked in multiple pickings as bolls mature and open,
+typically starting 150-160 days after sowing and continuing over several
+weeks.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

@@ -1,0 +1,96 @@
+TITLE: Groundnut (Peanut) Cultivation Guide
+
+SOIL REQUIREMENTS
+Groundnut prefers well-drained sandy loam soils with good calcium content, since the developing pods absorb calcium directly from the soil. Ideal pH is 6.0-6.5. Heavy clay soils restrict pod development.
+
+SOWING TIME
+Groundnut is typically sown at the start of the rainy season (kharif) or under irrigation in the post-rainy/summer season, depending on the region. Timely sowing after adequate soil moisture is available improves germination.
+
+SEED TREATMENT
+Seed treatment with a fungicide and rhizobium culture before sowing improves germination and enhances nitrogen fixation through root nodules.
+
+IRRIGATION
+Groundnut is relatively drought-tolerant but critical stages for irrigation are flowering, pegging (when pegs enter the soil), and pod development. Moisture stress during pegging can significantly reduce pod set.
+
+FERTILIZER MANAGEMENT
+Being a legume, groundnut fixes atmospheric nitrogen and needs comparatively low nitrogen fertilizer, but responds well to phosphorus and gypsum (calcium and sulphur source) applied at flowering to support pod filling.
+
+COMMON DISEASES
+Tikka leaf spot (early and late leaf spot) causes circular brown to black spots on leaves, leading to defoliation if untreated. Collar rot and stem rot appear as wilting with rotting at the collar/stem base, especially in wet conditions. Rust shows as orange-brown pustules on the underside of leaves.
+
+COMMON PESTS
+Leaf miner larvae tunnel inside leaves creating pale, irregular mines. Aphids and thrips are sap-sucking pests that can also spread viral diseases. White grubs damage roots and pods underground, sometimes causing significant yield loss.
+
+HARVESTING
+Groundnut is ready for harvest when the inside of the pod shell darkens and the kernel fills out, generally 90-120 days after sowing depending on variety.
+
+
+================================================================================
+GROUNDNUT / PEANUT (Arachis hypogaea) — CULTIVATION KNOWLEDGE BASE
+================================================================================
+Crop: Groundnut (Peanut)
+Category: Oilseed / Legume crop
+Region: India (general)
+Document type: agriculture_advisory
+Last verified: 2026
+
+--------------------------------------------------------------------------------
+SOIL REQUIREMENTS
+--------------------------------------------------------------------------------
+Groundnut prefers well-drained sandy loam soils with good calcium content,
+since the developing pods absorb calcium directly from the soil. Ideal pH is
+6.0-6.5. Heavy clay soils restrict pod development.
+
+--------------------------------------------------------------------------------
+SOWING TIME
+--------------------------------------------------------------------------------
+Groundnut is typically sown at the start of the rainy season (kharif) or
+under irrigation in the post-rainy/summer season, depending on the region.
+Timely sowing after adequate soil moisture is available improves germination.
+
+--------------------------------------------------------------------------------
+SEED TREATMENT
+--------------------------------------------------------------------------------
+Seed treatment with a fungicide and rhizobium culture before sowing improves
+germination and enhances nitrogen fixation through root nodules.
+
+--------------------------------------------------------------------------------
+IRRIGATION
+--------------------------------------------------------------------------------
+Groundnut is relatively drought-tolerant but critical stages for irrigation
+are flowering, pegging (when pegs enter the soil), and pod development.
+Moisture stress during pegging can significantly reduce pod set.
+
+--------------------------------------------------------------------------------
+FERTILIZER MANAGEMENT
+--------------------------------------------------------------------------------
+Being a legume, groundnut fixes atmospheric nitrogen and needs comparatively
+low nitrogen fertilizer, but responds well to phosphorus and gypsum (calcium
+and sulphur source) applied at flowering to support pod filling.
+
+--------------------------------------------------------------------------------
+COMMON DISEASES
+--------------------------------------------------------------------------------
+Tikka leaf spot (early and late leaf spot) causes circular brown to black
+spots on leaves, leading to defoliation if untreated. Collar rot and stem rot
+appear as wilting with rotting at the collar/stem base, especially in wet
+conditions. Rust shows as orange-brown pustules on the underside of leaves.
+
+--------------------------------------------------------------------------------
+COMMON PESTS
+--------------------------------------------------------------------------------
+Leaf miner larvae tunnel inside leaves creating pale, irregular mines. Aphids
+and thrips are sap-sucking pests that can also spread viral diseases. White
+grubs damage roots and pods underground, sometimes causing significant yield
+loss.
+
+--------------------------------------------------------------------------------
+HARVESTING
+--------------------------------------------------------------------------------
+Groundnut is ready for harvest when the inside of the pod shell darkens and
+the kernel fills out, generally 90-120 days after sowing depending on
+variety.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

@@ -1,0 +1,83 @@
+TITLE: Soil Management Handbook
+
+SOIL TYPES AND SUITABILITY
+Black soil (regur) is rich in clay, retains moisture well, and is suited to cotton, soybean, and pulses. Red soil is lighter, well-drained, and suited to groundnut, millets, and pulses with proper fertilization. Alluvial soil is fertile and versatile, supporting rice, wheat, sugarcane, and vegetables. Sandy soil drains quickly and needs frequent irrigation and organic matter addition to hold nutrients.
+
+SOIL pH
+Most crops perform best in a slightly acidic to neutral pH range of 6.0-7.5. Acidic soils (below 5.5) may need lime application to correct pH, while alkaline soils (above 8.5) may need gypsum and organic matter to improve structure and nutrient availability.
+
+NPK NUTRIENTS
+Nitrogen (N) supports vegetative growth and leaf development; deficiency shows as yellowing of older leaves. Phosphorus (P) supports root development and flowering; deficiency shows as stunted growth and purplish leaf discoloration. Potassium (K) supports overall plant vigor, disease resistance, and fruit/grain quality; deficiency shows as scorched leaf margins.
+
+MICRONUTRIENTS
+Zinc, boron, iron, and manganese deficiencies are increasingly common in intensively cultivated soils. Symptoms vary by crop but commonly include interveinal yellowing, poor flowering, or malformed new growth. Periodic soil testing helps identify and correct these deficiencies before they affect yield.
+
+ORGANIC MATTER AND SOIL HEALTH
+Regular addition of farmyard manure, compost, or green manure improves soil structure, water-holding capacity, and microbial activity. Cover cropping and crop rotation reduce erosion and help break pest and disease cycles.
+
+SOIL TESTING
+A soil test every 2-3 years is recommended to guide fertilizer application, avoid over-application, and identify nutrient deficiencies or pH imbalances specific to a field.
+
+
+================================================================================
+SOIL MANAGEMENT HANDBOOK — KNOWLEDGE BASE
+================================================================================
+Category: Cross-crop / Soil & nutrient management
+Region: India (general)
+Document type: agriculture_advisory
+Last verified: 2026
+
+--------------------------------------------------------------------------------
+SOIL TYPES AND SUITABILITY
+--------------------------------------------------------------------------------
+Black soil (regur) is rich in clay, retains moisture well, and is suited to
+cotton, soybean, and pulses. Red soil is lighter, well-drained, and suited
+to groundnut, millets, and pulses with proper fertilization. Alluvial soil
+is fertile and versatile, supporting rice, wheat, sugarcane, and vegetables.
+Sandy soil drains quickly and needs frequent irrigation and organic matter
+addition to hold nutrients.
+
+--------------------------------------------------------------------------------
+SOIL pH
+--------------------------------------------------------------------------------
+Most crops perform best in a slightly acidic to neutral pH range of
+6.0-7.5. Acidic soils (below 5.5) may need lime application to correct pH,
+while alkaline soils (above 8.5) may need gypsum and organic matter to
+improve structure and nutrient availability.
+
+--------------------------------------------------------------------------------
+NPK NUTRIENTS
+--------------------------------------------------------------------------------
+Nitrogen (N) supports vegetative growth and leaf development; deficiency
+shows as yellowing of older leaves. Phosphorus (P) supports root
+development and flowering; deficiency shows as stunted growth and purplish
+leaf discoloration. Potassium (K) supports overall plant vigor, disease
+resistance, and fruit/grain quality; deficiency shows as scorched leaf
+margins.
+
+--------------------------------------------------------------------------------
+MICRONUTRIENTS
+--------------------------------------------------------------------------------
+Zinc, boron, iron, and manganese deficiencies are increasingly common in
+intensively cultivated soils. Symptoms vary by crop but commonly include
+interveinal yellowing, poor flowering, or malformed new growth. Periodic
+soil testing helps identify and correct these deficiencies before they
+affect yield.
+
+--------------------------------------------------------------------------------
+ORGANIC MATTER AND SOIL HEALTH
+--------------------------------------------------------------------------------
+Regular addition of farmyard manure, compost, or green manure improves soil
+structure, water-holding capacity, and microbial activity. Cover cropping
+and crop rotation reduce erosion and help break pest and disease cycles.
+
+--------------------------------------------------------------------------------
+SOIL TESTING
+--------------------------------------------------------------------------------
+A soil test every 2-3 years is recommended to guide fertilizer application,
+avoid over-application, and identify nutrient deficiencies or pH imbalances
+specific to a field.
+
+================================================================================
+END OF DOCUMENT
+================================================================================ss
