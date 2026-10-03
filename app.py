@@ -206,7 +206,7 @@ def home():
     color: var(--text);
     height: 100vh;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     overflow: hidden;
     position: relative;
   }
@@ -229,6 +229,69 @@ def home():
     0% { opacity: 0.7; }
     50% { opacity: 1; }
     100% { opacity: 0.7; }
+  }
+
+  /* Sidebar */
+  .sidebar {
+    width: 260px;
+    background: rgba(0, 0, 0, 0.2);
+    border-right: 1px solid var(--glass-border);
+    backdrop-filter: blur(20px);
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    z-index: 10;
+  }
+
+  .sidebar-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--glass-border);
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .history-list {
+    list-style: none;
+    overflow-y: auto;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .history-list::-webkit-scrollbar { width: 4px; }
+  .history-list::-webkit-scrollbar-track { background: transparent; }
+  .history-list::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.1); border-radius: 4px; }
+
+  .history-item {
+    font-size: 0.85rem;
+    padding: 10px 12px;
+    background: var(--surface);
+    border-radius: 8px;
+    cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: 1px solid transparent;
+    transition: all 0.2s;
+    color: var(--text);
+  }
+
+  .history-item:hover {
+    background: var(--surface-hover);
+    border-color: var(--primary);
+  }
+
+  .main-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
   }
 
   /* Header */
@@ -621,6 +684,7 @@ def home():
 
   /* Responsive */
   @media (max-width: 640px) {
+    .sidebar { display: none; }
     .header { padding: 12px 16px; }
     .header h1 { font-size: 1.1rem; }
     .header-subtitle { display: none; }
@@ -634,6 +698,11 @@ def home():
 </style>
 </head>
 <body>
+  <div class="sidebar">
+    <div class="sidebar-title">History</div>
+    <ul class="history-list" id="history-list"></ul>
+  </div>
+  <div class="main-content">
   <div class="header">
     <div class="header-left">
       <span class="logo-icon">&#127806;</span>
@@ -689,6 +758,7 @@ def home():
       </form>
     </div>
   </div>
+  </div>
 
 <script>
 let conversationId = null;
@@ -712,7 +782,19 @@ form.addEventListener('submit', async (e) => {
   const welcome = document.querySelector('.welcome-card');
   if (welcome) welcome.remove();
 
+  function addHistoryItem(text) {
+    const list = document.getElementById('history-list');
+    const li = document.createElement('li');
+    li.className = 'history-item';
+    li.textContent = text;
+    li.title = text;
+    // Optional: click history item to ask again
+    li.onclick = () => setExample(text);
+    list.insertBefore(li, list.firstChild);
+  }
+
   addMessage('user', question);
+  addHistoryItem(question);
   questionInput.value = '';
   sendBtn.disabled = true;
 
