@@ -18,6 +18,20 @@ import logging
 import time
 import uuid
 
+try:
+    from supabase import create_client, Client
+except ImportError:
+    Client = None
+    create_client = None
+
+# --- Initialize Supabase ---
+SUPABASE_URL = os.environ.get("SUPABASE_URL")
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
+if SUPABASE_URL and SUPABASE_KEY and create_client:
+    supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
+else:
+    supabase = None
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
@@ -230,6 +244,28 @@ def home():
     50% { opacity: 1; }
     100% { opacity: 0.7; }
   }
+
+  /* Mobile Menu & Overlay */
+  .mobile-menu-btn {
+    display: none;
+    background: transparent;
+    border: none;
+    color: var(--text);
+    cursor: pointer;
+    padding: 6px;
+    border-radius: 6px;
+  }
+  .mobile-menu-btn:hover { background: var(--surface); }
+
+  .sidebar-overlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 90;
+    backdrop-filter: blur(4px);
+  }
+  .sidebar-overlay.active { display: block; }
 
   /* Sidebar */
   .sidebar {
@@ -684,7 +720,16 @@ def home():
 
   /* Responsive */
   @media (max-width: 640px) {
-    .sidebar { display: none; }
+    .sidebar { 
+      position: fixed;
+      top: 0; bottom: 0; left: -260px;
+      z-index: 100;
+      background: var(--bg-gradient-start);
+      transition: left 0.3s ease;
+      display: flex; /* override display: none */
+    }
+    .sidebar.open { left: 0; }
+    .mobile-menu-btn { display: flex; align-items: center; justify-content: center; }
     .header { padding: 12px 16px; }
     .header h1 { font-size: 1.1rem; }
     .header-subtitle { display: none; }
@@ -698,6 +743,7 @@ def home():
 </style>
 </head>
 <body>
+  <div class="sidebar-overlay" id="sidebarOverlay"></div>
   <div class="sidebar">
     <div class="sidebar-title">History</div>
     <ul class="history-list" id="history-list"></ul>
@@ -705,6 +751,9 @@ def home():
   <div class="main-content">
   <div class="header">
     <div class="header-left">
+      <button class="mobile-menu-btn" id="mobileMenuBtn">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+      </button>
       <span class="logo-icon">&#127806;</span>
       <div>
         <h1>FarmAI Assistant</h1>
@@ -767,6 +816,22 @@ const form = document.getElementById('form');
 const questionInput = document.getElementById('question');
 const sendBtn = document.getElementById('sendBtn');
 const langSelect = document.getElementById('langSelect');
+
+// Mobile sidebar logic
+const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+const sidebar = document.querySelector('.sidebar');
+const sidebarOverlay = document.getElementById('sidebarOverlay');
+
+if (mobileMenuBtn && sidebar && sidebarOverlay) {
+  mobileMenuBtn.addEventListener('click', () => {
+    sidebar.classList.add('open');
+    sidebarOverlay.classList.add('active');
+  });
+  sidebarOverlay.addEventListener('click', () => {
+    sidebar.classList.remove('open');
+    sidebarOverlay.classList.remove('active');
+  });
+}
 
 function setExample(text) {
   questionInput.value = text;
@@ -928,3 +993,8 @@ questionInput.addEventListener('keydown', (e) => {
 </body>
 </html>
 """
+
+if __name__ == "__main__":
+    import uvicorn
+    # Start the server on port 5000 when run directly via `python app.py`
+    uvicorn.run("app:app", host="127.0.0.1", port=5000, reload=True)
